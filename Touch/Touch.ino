@@ -1,4 +1,4 @@
-/* MakeFashion Kit Ultrasonic Rangefinder demo
+/* MakeFashion Kit Touch Sensor demo
  * -------------------------------------------
  *  
  * Requires:
