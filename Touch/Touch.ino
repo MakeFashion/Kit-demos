@@ -4,7 +4,7 @@
  * Requires:
  * ---------
  *  MakeFashion controller board
- *  SeeedStudio Touch Sensor ( http://wiki.seeed.cc/Grove-Ultrasonic_Ranger/ )
+ *  SeeedStudio Touch Sensor ( http://wiki.seeedstudio.com/Grove-Touch_Sensor/ )
  *  FastLED-compatible LEDs ( https://github.com/FastLED/FastLED/wiki/Overview#chipsets )
  *  
  * Dependencies:
